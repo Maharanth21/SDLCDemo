@@ -1,0 +1,21 @@
+SDLC-Student-Management-System
+│
+├── README.md
+│
+├── Requirements
+│   └── requirements.md
+│
+├── Design
+│   └── design.md
+│
+├── Development
+│   └── main.cpp
+│
+├── Testing
+│   └── testcases.md
+│
+├── Deployment
+│   └── deployment.md
+│
+└── Maintenance
+    └── maintenance.md
